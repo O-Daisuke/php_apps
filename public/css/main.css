@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+body {
+    /*background-image: url("../img/Wood.png");*/
+    padding-top: 60px;
+    padding-bottom: 10px;
+    font-size: 9pt;
+    overflow-y: scroll;
+}
+
+#img-camera{
+	display:inline-block;
+    background-image:url("../img/icon-camera.png");
+    background-position:50px 50px;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    width:210px;
+    height:210px;
+    vertical-align:middle;
+    cursor:pointer;
+}
+
+#img-tasks{
+	display:inline-block;
+    background-image:url("../img/icon-task.png");
+    background-position:80px 80px;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    width:210px;
+    height:210px;
+    vertical-align:middle;
+    cursor:pointer;
+}
+
+#img-rss{
+	display:inline-block;
+    background-image:url("../img/icon-rss.png");
+    background-position:100px 50px;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+    width:220px;
+    height:165px;
+    vertical-align:middle;
+    cursor:pointer;
+}
+

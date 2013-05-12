@@ -1,0 +1,21 @@
+.deleteTask, .drag, .editTask{
+	cursor: pointer;
+	color: blue;
+}
+
+.done{
+	text-decoration:line-through;
+	color:gray;
+}
+
+.th_done, .th_no{
+	width:5%;
+}
+
+.th_title{
+	width:60%;
+}
+
+.th_controller{
+	width:20%;
+}
